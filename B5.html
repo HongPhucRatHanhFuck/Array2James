@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Title</title>
+</head>
+<body>
+<script>
+	let a = prompt("Enter string 1");
+	let b = prompt("Enter string 2");
+	if (a.length !== b.length) {
+		alert("a khac b")
+	} else {
+		let check = false;
+		for (let i = 0; i < a.length; i++) {
+			if (a[i] !== b[i]) {
+				check = true;
+			}
+		}
+		if (check) {
+			alert("a khac b")
+		} else {
+			alert("a giong b")
+		}
+	}
+
+</script>
+</body>
+</html>

@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae92841c-68c4-42af-b355-8850012f110b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Array1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array1/.idea/Array1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array1/ArrayJames1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array1/Test1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Array2James.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array2Zalo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array2Zalo/.idea/Array2Zalo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array2Zalo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array2Zalo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array2Zalo/B1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array2Zalo/B2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array2Zalo/B3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayJames/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayJames/.idea/ArrayJames.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayJames/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayJames/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayJames/B1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayJames/B2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayJames/B3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayJames/B4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayJames/B5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayJames/B6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayJames/B7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayJames/B8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayJames/B9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayZalo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayZalo/.idea/ArrayZalo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayZalo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayZalo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayZalo/B1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTIf/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTIf/.idea/BTIf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTIf/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTIf/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTIf/AddMul.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTIf/Age.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTIf/BigNum.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTIf/HiHello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTJs/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTJs/.idea/BTJs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTJs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTJs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTJs/Bt1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTJs/Bt2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTJs/Bt3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTJs/Bt4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CDKL2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CDKL2/.idea/CDKL2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CDKL2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CDKL2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CDKL2/AreaSquare.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CDKL2/AreaTriangleSquare.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CDKL2/B1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CDKL2/B2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CDKL2/MoneyElec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CDKL2/PTB1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CDKL2/PTB2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CDKL2/TaxMoney.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CDKL2/TestAge.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CDKL2/testTriangle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CTDK1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CTDK1/.idea/CTDK1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CTDK1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CTDK1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CTDK1/MoneyPhone.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CTDK1/MoneyRose.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CTDK1/b1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CTDK1/b2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CTDK1/b3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CTDK1/b4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CTDK1/b5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaculatorBase/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaculatorBase/.idea/CaculatorBase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaculatorBase/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaculatorBase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaculatorBase/CaculatorBase.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseBrowser/.idea/CaseBrowser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiemTB/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiemTB/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiemTB/.idea/Practice4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiemTB/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiemTB/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiemTB/AreaCircle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiemTB/Celsius.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiemTB/DiameterCircle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiemTB/DiemTB.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FootballClick/.idea/FootballClick.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FootballClick/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FootballClick/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FootballClick/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../For2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../For2/.idea/For2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../For2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../For2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../For2/B2soNguyenDuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../For2/FizzBuzz.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../For2/SoNguyenTo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../For2/rectangle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../For2/triangleSquare.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../For2/triangleSquare2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../For2/triangleSquare3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForDocs/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForDocs/.idea/ForDocs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForDocs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForDocs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForDocs/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForDocs/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForDocs/Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForDocs/Bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForDocs/Bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForDocs/Bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForWhile/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForWhile/.idea/ForWhile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForWhile/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForWhile/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForWhile/B1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForWhile/B10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForWhile/B11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForWhile/B12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForWhile/B13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForWhile/B14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForWhile/B2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForWhile/B3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForWhile/B4_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForWhile/B6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForWhile/B7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForWhile/B8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForWhile/Bai9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game/.idea/Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HtmlBase/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HtmlBase/.idea/HtmlBase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HtmlBase/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HtmlBase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HtmlBase/HtmlBase.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfElseIfElse/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfElseIfElse/.idea/IfElseIfElse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfElseIfElse/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfElseIfElse/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfElseIfElse/Admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfElseIfElse/CaseBrowser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfElseIfElse/CasePrint.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfElseIfElse/CheckMess.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfElseIfElse/CheckNum.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfElseIfElse/CheckNumT3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfElseIfElse/ECMA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfElseIfElse/LeapYear.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfElseIfElse/TtB1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JeamsFor/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JeamsFor/.idea/JeamsFor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JeamsFor/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JeamsFor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JeamsFor/JeamsFor/doWhile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JeamsFor/JeamsFor/for.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JeamsFor/JeamsFor/for2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JeamsFor/JeamsFor/forFor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JeamsFor/JeamsFor/while.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JeamsFor/JeamsFor/while2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsBase/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsBase/.idea/JsBase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsBase/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsBase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsBase/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsBase/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsBase/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoneyConversion/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoneyConversion/.idea/MoneyConversion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoneyConversion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoneyConversion/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoneyConversion/MoneyConversion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MoneyConversion/tiente.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OctoberCalendar/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OctoberCalendar/.idea/OctoberCalendar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OctoberCalendar/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OctoberCalendar/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OctoberCalendar/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OctoberCalendar/Calendar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice2/.idea/Practice2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice2/BtnAlert.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice2/btnAlert2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice2/htmlToJs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice2/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice3/.idea/Varible.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice3/DocWrite.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice3/GridArea.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice 1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice 1/.idea/Pratice 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice 1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice 1/Practice/Alert.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice 1/Practice/Console.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice 1/Practice/DivInner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice 1/Practice/DocWrite.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecArea/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecArea/.idea/RecArea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecArea/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecArea/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecArea/RecArea.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T0908Update/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T0908Update/.idea/T0908Update.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T0908Update/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T0908Update/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T0908Update/UpdateT0908I.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TKB908I/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TKB908I/.idea/TKB908I.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TKB908I/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TKB908I/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TKB908I/T0908I.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanhArray2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanhArray2/.idea/ThucHanhArray2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanhArray2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanhArray2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanhArray2/Array2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UseVar/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UseVar/.idea/UseVar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UseVar/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UseVar/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UseVar/UseVarible.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forIf/.idea/forIf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forIf/forIf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/.idea/web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/Rectangle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/YourName.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/formWeb.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaseForm/Form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BaseForm/Form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CV/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CV/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chess/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chess/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chess/Chess.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Chess/Chess.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CrossZImage/crossZ.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CrossZImage/crossZ.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CrossZMagma/CRZMagma.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CrossZMagma/CRZMagma.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DKiHocVien/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DKiHocVien/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DragonJellyImage/Jelly.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DragonJellyImage/Jelly.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FormSearch/Search.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FormSearch/Search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitTest/GitTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitTest/input.html" beforeDir="false" afterPath="$PROJECT_DIR$/../GitTest/input.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreatCrossZImage/GRCrossZ.html" beforeDir="false" afterPath="$PROJECT_DIR$/../GreatCrossZImage/GRCrossZ.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hobby/YourHobby.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Hobby/YourHobby.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My-New-Project/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../My-New-Project/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderForm/OrderForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderForm/OrderForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../README/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/../README/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SurveyForm/SurveyMarketForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SurveyForm/SurveyMarketForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SurveyUser/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SurveyUser/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SurveyUser/survey.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SurveyUser/survey.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TaoDanhSach/DanhSachDiaDanh.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TaoDanhSach/DanhSachDiaDanh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YoutubeSearch/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../YoutubeSearch/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YoutubeSearch/YoutubeSearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/../YoutubeSearch/YoutubeSearch.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2U3cEdm69qNSWCFGeBmGMqTp2Bv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/CodeGymWebStorm/Module_1/ArrayJames",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae92841c-68c4-42af-b355-8850012f110b" name="Changes" comment="" />
+      <created>1692171593798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692171593798</updated>
+      <workItem from="1692171594836" duration="34000" />
+      <workItem from="1692173840050" duration="5285000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
